@@ -1,5 +1,5 @@
 <!-- Banner o immagine di copertina -->
-![Banner](https://via.placeholder.com/1200x300.png?text=Benvenuto+nel+Mio+Mondo+di+Codice)
+![Banner](.github cover.webp)
 
 # Ciao, sono Omar Ben Aissa! 👋
 
