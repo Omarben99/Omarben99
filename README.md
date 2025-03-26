@@ -1,6 +1,6 @@
 <!-- Banner o immagine di copertina -->
 
-<img src=./img/1.webp alt="Banner" width="500" height ="100" />
+<img src=./img/1.webp alt="Banner" width="600" height ="300" />
 
 # Ciao, sono Omar Ben Aissa! 👋
 
