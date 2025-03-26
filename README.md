@@ -68,7 +68,7 @@ Sono sempre aperto a nuove collaborazioni e idee innovative. Puoi contattarmi tr
 
 ## 📊 Le mie Statistiche GitHub
 
-![Statistiche GitHub](https://github-readme-stats.vercel.app/api?username=tuo-username&show_icons=true&theme=radical)
+![Statistiche GitHub](https://github-readme-stats.vercel.app/api?username=Omarben99&show_icons=true&theme=radical)
 
 <!-- Aggiungi anche il badge delle lingue principali -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuo-username&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omarben99&layout=compact&theme=radical)
