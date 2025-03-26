@@ -56,7 +56,7 @@ Un altro progetto che dimostra le mie capacità di sviluppo e problem solving.
 
 Sono sempre aperto a nuove collaborazioni e idee innovative. Puoi contattarmi tramite:
 
-- **Email:** [tuo.Omarbenaissa0@gmail.com](mailto:tuo.Omarbenaissa0@gmail.com)
+- **Email:** [Omarbenaissa0@gmail.com](mailto:Omarbenaissa0@gmail.com)
 - **LinkedIn:** [Profilo LinkedIn](https://www.linkedin.com/in/tuo-profilo)
 - **Twitter:** [Profilo Twitter](https://twitter.com/tuo-profilo)
 - **Sito Web:** [www.tuosito.com](https://www.tuosito.com)
