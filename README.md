@@ -33,7 +33,7 @@ Ecco alcuni dei linguaggi e tool con cui lavoro:
 
 ### Progetto 1: Nome del Progetto
 Breve descrizione del progetto, obiettivi raggiunti e tecnologie utilizzate.  
-[**Scopri di più »**]([https://github.com/Omarben99/VERYNAILS])
+[**Scopri di più »**](https://github.com/Omarben99/VERYNAILS)
 
 ### Progetto 2: Nome del Progetto
 Un altro progetto che dimostra le mie capacità di sviluppo e problem solving.  
