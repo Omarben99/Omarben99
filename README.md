@@ -37,7 +37,7 @@ Breve descrizione del progetto, obiettivi raggiunti e tecnologie utilizzate.
 
 ### Progetto 2: Nome del Progetto
 Un altro progetto che dimostra le mie capacità di sviluppo e problem solving.  
-[**Scopri di più »**]([https://github.com/tuo-username/progetto2](https://github.com/Omarben99/VERYNAILS))
+[**Scopri di più »**](https://github.com/Omarben99/week-1-D4-Epibooks-react)
 
 ---
 
