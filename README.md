@@ -1,6 +1,8 @@
 <!-- Banner o immagine di copertina -->
 
-<img src=./img/1.webp alt="Banner" width="600" height ="300" />
+<p align="center">
+    <img src="https://github.com/Omarben99/Omarben99/blob/main/img/1.webp" alt="Cover" width="100%" />
+</p>
 
 # Ciao, sono Omar Ben Aissa! 👋
 
