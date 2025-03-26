@@ -41,7 +41,7 @@ Un altro progetto che dimostra le mie capacità di sviluppo e problem solving.
 ## 🎓 Formazione e Esperienze
 
 - **Aspirante Full Stack Developer**: Esperienza pratica in sviluppo web e mobile.
-- **Formazione**: [Nome dell’Istituzione](#) – Corso in [Settore di Studio].
+- **Formazione**: Epicode(#) – Corso da Full Stack Developer.
 
 ---
 
@@ -56,7 +56,7 @@ Un altro progetto che dimostra le mie capacità di sviluppo e problem solving.
 
 Sono sempre aperto a nuove collaborazioni e idee innovative. Puoi contattarmi tramite:
 
-- **Email:** [tuo.email@example.com](mailto:tuo.email@example.com)
+- **Email:** [tuo.Omarbenaissa0@gmail.com](mailto:tuo.Omarbenaissa0@gmail.com)
 - **LinkedIn:** [Profilo LinkedIn](https://www.linkedin.com/in/tuo-profilo)
 - **Twitter:** [Profilo Twitter](https://twitter.com/tuo-profilo)
 - **Sito Web:** [www.tuosito.com](https://www.tuosito.com)
