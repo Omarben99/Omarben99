@@ -1,5 +1,5 @@
 <!-- Banner o immagine di copertina -->
-![Banner](./github cover.webp)
+![Banner](./Omarben99/github cover.webp)
 
 # Ciao, sono Omar Ben Aissa! 👋
 
