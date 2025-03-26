@@ -1,5 +1,6 @@
 <!-- Banner o immagine di copertina -->
-![Banner](./img/1.webp)
+
+<img src=./img/1.webp alt="Banner" width="600" />
 
 # Ciao, sono Omar Ben Aissa! 👋
 
